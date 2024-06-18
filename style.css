@@ -6,6 +6,7 @@
     outline: 0;
     border: none;
     box-sizing: border-box;
+    max-width: 99%;
 }
 
 img {
@@ -461,4 +462,19 @@ footer .column > a:hover{
 #slogan {
 
 color:#000000
+}
+
+.sobres{
+display:flex;
+width: 1150px;
+text-align: justify;
+
+
+}
+
+
+#sobrenostexto{
+    width: 1180px;
+    text-align: justify;
+   
 }
