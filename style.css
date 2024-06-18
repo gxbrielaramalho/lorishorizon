@@ -478,3 +478,12 @@ text-align: justify;
     text-align: justify;
    
 }
+
+.banner {
+    border-bottom: 1px solid black;
+    width: 1180px;
+    height: 400px;
+    margin: 35px;
+
+    background-image: url(img/banner.png);
+}
